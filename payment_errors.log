@@ -1,0 +1,73 @@
+[11-Nov-2024 09:42:51 Europe/Berlin] PHP Notice:  Undefined index: projectIdDisplay in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 14
+[11-Nov-2024 09:55:39 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_URL - assumed 'PAYPAL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 42
+[11-Nov-2024 09:55:39 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CURRENCY - assumed 'PAYPAL_CURRENCY' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 78
+[11-Nov-2024 09:55:39 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 79
+[11-Nov-2024 09:55:39 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 80
+[11-Nov-2024 09:55:39 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 81
+[11-Nov-2024 09:58:41 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_URL - assumed 'PAYPAL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 42
+[11-Nov-2024 09:58:41 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CURRENCY - assumed 'PAYPAL_CURRENCY' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 78
+[11-Nov-2024 09:58:41 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 79
+[11-Nov-2024 09:58:41 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 80
+[11-Nov-2024 09:58:41 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 81
+[11-Nov-2024 09:59:45 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CURRENCY - assumed 'PAYPAL_CURRENCY' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 82
+[11-Nov-2024 09:59:45 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 83
+[11-Nov-2024 09:59:45 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 84
+[11-Nov-2024 09:59:45 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 85
+[11-Nov-2024 10:01:25 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CURRENCY - assumed 'PAYPAL_CURRENCY' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 82
+[11-Nov-2024 10:01:25 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 83
+[11-Nov-2024 10:01:25 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 84
+[11-Nov-2024 10:01:25 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 85
+[11-Nov-2024 10:04:32 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CURRENCY - assumed 'PAYPAL_CURRENCY' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 82
+[11-Nov-2024 10:04:32 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 83
+[11-Nov-2024 10:04:32 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 84
+[11-Nov-2024 10:04:32 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 85
+[11-Nov-2024 10:05:18 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CURRENCY - assumed 'PAYPAL_CURRENCY' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 82
+[11-Nov-2024 10:05:18 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 83
+[11-Nov-2024 10:05:18 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 84
+[11-Nov-2024 10:05:18 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 85
+[11-Nov-2024 10:05:39 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CURRENCY - assumed 'PAYPAL_CURRENCY' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 82
+[11-Nov-2024 10:05:39 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 83
+[11-Nov-2024 10:05:39 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 84
+[11-Nov-2024 10:05:39 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 85
+[11-Nov-2024 10:08:37 Europe/Berlin] PHP Warning:  session_start(): Setting option 'cookie_samesite' failed in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 65
+[11-Nov-2024 10:08:37 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CURRENCY - assumed 'PAYPAL_CURRENCY' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 116
+[11-Nov-2024 10:08:37 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 117
+[11-Nov-2024 10:08:37 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 118
+[11-Nov-2024 10:08:37 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 119
+[11-Nov-2024 10:09:32 Europe/Berlin] PHP Warning:  session_start(): Setting option 'cookie_samesite' failed in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 65
+[11-Nov-2024 10:09:32 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CURRENCY - assumed 'PAYPAL_CURRENCY' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 116
+[11-Nov-2024 10:09:32 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 117
+[11-Nov-2024 10:09:32 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 118
+[11-Nov-2024 10:09:32 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 119
+[11-Nov-2024 10:11:12 Europe/Berlin] PHP Warning:  session_start(): Setting option 'cookie_samesite' failed in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 77
+[11-Nov-2024 10:11:12 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CURRENCY - assumed 'PAYPAL_CURRENCY' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 100
+[11-Nov-2024 10:11:12 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 101
+[11-Nov-2024 10:11:12 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 102
+[11-Nov-2024 10:11:12 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 103
+[11-Nov-2024 10:11:32 Europe/Berlin] PHP Warning:  session_start(): Setting option 'cookie_samesite' failed in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 77
+[11-Nov-2024 10:11:32 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CURRENCY - assumed 'PAYPAL_CURRENCY' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 100
+[11-Nov-2024 10:11:32 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 101
+[11-Nov-2024 10:11:32 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 102
+[11-Nov-2024 10:11:32 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 103
+[11-Nov-2024 10:15:35 Europe/Berlin] PHP Warning:  session_start(): Setting option 'cookie_samesite' failed in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 77
+[11-Nov-2024 10:15:35 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CURRENCY - assumed 'PAYPAL_CURRENCY' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 100
+[11-Nov-2024 10:15:35 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 101
+[11-Nov-2024 10:15:35 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 102
+[11-Nov-2024 10:15:35 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 103
+[11-Nov-2024 10:16:38 Europe/Berlin] PHP Warning:  session_start(): Setting option 'cookie_samesite' failed in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 77
+[11-Nov-2024 10:16:38 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 101
+[11-Nov-2024 10:16:38 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 102
+[11-Nov-2024 10:16:38 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 103
+[11-Nov-2024 10:17:31 Europe/Berlin] PHP Warning:  session_start(): Setting option 'cookie_samesite' failed in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 77
+[11-Nov-2024 10:17:31 Europe/Berlin] PHP Notice:  Use of undefined constant formattedAmount - assumed 'formattedAmount' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 99
+[11-Nov-2024 10:17:31 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 101
+[11-Nov-2024 10:17:31 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 102
+[11-Nov-2024 10:17:31 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 103
+[11-Nov-2024 10:18:35 Europe/Berlin] PHP Warning:  session_start(): Setting option 'cookie_samesite' failed in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 77
+[11-Nov-2024 10:18:35 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 101
+[11-Nov-2024 10:18:35 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 102
+[11-Nov-2024 10:18:35 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 103
+[11-Nov-2024 10:28:49 Europe/Berlin] PHP Warning:  session_start(): Setting option 'cookie_samesite' failed in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 77
+[11-Nov-2024 10:28:49 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_RETURN_URL - assumed 'PAYPAL_RETURN_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 101
+[11-Nov-2024 10:28:49 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_CANCEL_URL - assumed 'PAYPAL_CANCEL_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 102
+[11-Nov-2024 10:28:49 Europe/Berlin] PHP Notice:  Use of undefined constant PAYPAL_NOTIFY_URL - assumed 'PAYPAL_NOTIFY_URL' in C:\portablexampp\htdocs\crowdfunder\process_payment.php on line 103

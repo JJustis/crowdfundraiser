@@ -51,7 +51,7 @@ async function loadProjects() {
 function displayProject(project) {
     document.getElementById('projectTitle').textContent = project.title;
     document.getElementById('projectDescription').textContent = project.description;
-    document.getElementById('projectImage').src = project.image_path || '/api/placeholder/800/400';
+    document.getElementById('projectImage').src = project.imagepath || 'https://i.imgur.com/wwaPkQ4.png';
     document.getElementById('projectIdDisplay').textContent = `ID: ${project.id}`;
     document.getElementById('projectIdDisplay').value = project.id;
     

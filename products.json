@@ -1,46 +1,14 @@
 {
-    "6731beb896193": {
-        "id": "6731beb896193",
-        "title": "Test",
-        "description": "sadasd",
-        "image_path": "uploads\/6731beb896193_merged_image(4).png",
-        "goal": 123,
+    "6731f2c121adc": {
+        "id": "6731f2c121adc",
+        "link": "https:\/\/jcmc.serveminecraft.net\/crowdfunder\/project.php?id=6731f2c121adc",
+        "title": "Traveling Linux Computer: Startup!",
+        "description": "I am introducing a new project to the world... A traveling Linux Computer that can preform all the duties of a normal computer or server if so inclined. But also feels good to touch and play with. Let's start our journey then; The final product hasn't been decided yet and the production time for this project is one year from now, the funding will be over on the 19th of December this year and I will need those funds to continue the production of the device in the following year after fund raising. The release date is one year and 2 months away from now. I'll accept all funding levels and can promise a personal hand-held computer to you for a donation amount of 600. by the end of the year next year. It will be ordered and designed from a factory in china. The final product will have the following stats: 2xcpus, 32gb of ddr4, 120gbs ssd or nvme, a large battery with solar panel on it for emergency charging. The final product should look something like what I have posted here along side this article. The final product will have a fatter body and a should be 4.2in x 4.2in plus 1.2in for the battery cartridge x 1.5in deep, the screen is square and the keyboard is full qwerty with game pad controls above in a handy and comfortable way. The screen is 1 cm thick and the body is 1 inch thick, the screen is square and folds up like a gameboy ds did but with a full hd screen. Please consider donating to ",
+        "image_path": "https:\/\/jcmc.serveminecraft.net\/crowdfunder\/uploads\/6731f2c121adc_merged_image(6).png",
+        "goal": 7000,
         "current_amount": 0,
         "paypal_email": "Vikerus1@gmail.com",
-        "reward_file_path": "project_files\/6731beb896193_",
-        "created_at": "2024-11-11 09:22:16"
-    },
-    "6731bee138622": {
-        "id": "6731bee138622",
-        "title": "Test",
-        "description": "sdfgadfgds",
-        "image_path": "uploads\/6731bee138622_merged_image(4).png",
-        "goal": 546,
-        "current_amount": 0,
-        "paypal_email": "Vikerus1@gmail.com",
-        "reward_file_path": "project_files\/6731bee138622_",
-        "created_at": "2024-11-11 09:22:57"
-    },
-    "6731bffb13655": {
-        "id": "6731bffb13655",
-        "title": "Test",
-        "description": "zdfgdfgdfg",
-        "image_path": ".\/uploads\/6731bffb13655_merged_image(5).png",
-        "goal": 123,
-        "current_amount": 0,
-        "paypal_email": "Vikerus1@gmail.com",
-        "reward_file_path": ".\/project_files\/6731bffb13655_",
-        "created_at": "2024-11-11 09:27:39"
-    },
-    "6731c07f3f254": {
-        "id": "6731c07f3f254",
-        "title": "Test",
-        "description": "zdfgdfgdfg",
-        "image_path": "..\/uploads\/6731c07f3f254_merged_image(5).png",
-        "goal": 123,
-        "current_amount": 0,
-        "paypal_email": "Vikerus1@gmail.com",
-        "reward_file_path": "..\/project_files\/6731c07f3f254_",
-        "created_at": "2024-11-11 09:29:51"
+        "reward_file_path": "C:\\portablexampp\\htdocs\\crowdfunder\/project_files\/6731f2c121adc_",
+        "created_at": "2024-11-11 13:04:17"
     }
 }

@@ -38,6 +38,7 @@ class ProjectManager {
         $image_path = '';
         if (isset($files['image'])) {
             $image = $files['image'];
+			$image_link = "https://jcmc.serveminecraft.net/crowdfunder\/uploads\/" . $id . '_' . basename($image['name']);;
             $image_path = UPLOAD_DIR . $id . '_' . basename($image['name']);
             if (!is_dir(UPLOAD_DIR)) {
                 mkdir(UPLOAD_DIR, 0755, true);
@@ -59,9 +60,10 @@ class ProjectManager {
         // Create project data
         $projects[$id] = [
             'id' => $id,
+			'link' => "https://jcmc.serveminecraft.net/crowdfunder/project.php?id=".$id,
             'title' => $data['title'],
             'description' => $data['description'],
-            'image_path' => $image_path,
+            'image_path' => $image_link,
             'goal' => floatval($data['goal']),
             'current_amount' => 0,
             'paypal_email' => $data['paypal_email'],

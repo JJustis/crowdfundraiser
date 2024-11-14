@@ -74,7 +74,7 @@
                         </div>
                     </div> 
                     <div class="card-body p-4">
-                        <img id="projectImage" class="project-image mb-4" src="/api/placeholder/800/400" alt="Project Image">
+                        <img id="projectImage" class="project-image mb-4" src="https://i.imgur.com/wwaPkQ4.png" alt="Project Image">
                         <h2 class="card-title" id="projectTitle">Select a project</h2>
                         <p class="card-text" id="projectDescription"></p>
                         
@@ -82,9 +82,12 @@
                             <div class="progress-bar bg-success" id="fundingProgress" role="progressbar" style="width: 0%"></div>
                         </div>
                         
-                        <div class="mb-3">
-                            <p class="text-muted" id="projectIdDisplay">ID: N/A</p>
-                        </div>
+                       <div class="mb-3">
+    <p class="text-muted">
+	<div id="projectLinkContainer"></div>
+    <a href="#" id="projectIdDisplay" class="text-primary text-decoration-underline"></a>
+    </p>
+</div>
                         
                         <div class="d-flex justify-content-between mb-4">
                             <div>
@@ -102,10 +105,9 @@
                                 Download Project Files
                             </a>
                         </div>
-
                         <form id="paymentForm" action="process_payment.php" method="POST" class="mt-4">
 						 <div class="mb-3">
-                            <p class="text-muted" id="projectIdDisplay"><input name="projectIdDisplay" id="projectIdDisplay" value="copy and paste the id here"></p>
+                            <p class="text-muted" id="projectIdDisplay"><input name="projectIdDisplay" id="projectIdDisplay" placeholder="copy and paste the id here"></p>
                         </div>
                             
                             <div class="mb-3">
@@ -198,6 +200,11 @@
                 }
             });
         });
-    </script>
+	
+
+
+</script>
+
+ 
 </body>
 </html>

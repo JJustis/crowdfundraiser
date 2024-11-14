@@ -51,16 +51,27 @@ async function loadProjects() {
 function displayProject(project) {
     document.getElementById('projectTitle').textContent = project.title;
     document.getElementById('projectDescription').textContent = project.description;
-    document.getElementById('projectImage').src = project.imagepath || 'https://i.imgur.com/wwaPkQ4.png';
+    document.getElementById('projectImage').src = project.image_path || 'https://i.imgur.com/wwaPkQ4.png';
     document.getElementById('projectIdDisplay').textContent = `ID: ${project.id}`;
     document.getElementById('projectIdDisplay').value = project.id;
-    
+
+    // Create the project link
+    const projectLinkElement = document.createElement('a');
+    projectLinkElement.href = project.link;
+    projectLinkElement.textContent = 'View Project'; // Link text
+    projectLinkElement.target = '_blank'; // Open in a new tab
+
+    // Add the project link to the DOM (you can choose where to display it)
+    const projectLinkContainer = document.getElementById('projectLinkContainer'); // Ensure this container exists in your HTML
+    projectLinkContainer.innerHTML = ''; // Clear any previous content
+    projectLinkContainer.appendChild(projectLinkElement); // Add the new link
+
     const progress = (project.current_amount / project.goal) * 100;
     document.getElementById('fundingProgress').style.width = `${Math.min(100, progress)}%`;
-    
+
     document.getElementById('currentAmount').textContent = `$${project.current_amount.toLocaleString()}`;
     document.getElementById('goalAmount').textContent = `$${project.goal.toLocaleString()}`;
-    
+
     const downloadSection = document.getElementById('downloadSection');
     if (project.current_amount >= project.goal && project.reward_file_path) {
         downloadSection.classList.add('available');
@@ -69,6 +80,7 @@ function displayProject(project) {
         downloadSection.classList.remove('available');
     }
 }
+
 
 function setupFormHandlers() {
     // Project creation form
